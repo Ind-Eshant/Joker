@@ -17,7 +17,7 @@ A JavaScript-based Discord self-bot that enables AI-powered image generation dir
 
 ### 1️⃣ Setup  
 
-- Add your **Discord token** in the designated section of line 40 of the script.  
+- Add your **Discord token** in the designated section of line 97 of the script.  
 - Ensure you have Node.js installed on your system.  
 
 ### 2️⃣ Running the Bot  
