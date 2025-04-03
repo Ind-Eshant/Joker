@@ -23,6 +23,10 @@ A JavaScript-based Discord self-bot that enables AI-powered image generation dir
 ### 2️⃣ Running the Bot  
 
 ```bash
+npm install discord.js-selfbot-v13 node-fetch@2
+```
+
+```bash
 node bot.js
 ```  
 
