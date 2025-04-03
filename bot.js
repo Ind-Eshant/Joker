@@ -24,7 +24,7 @@ function saveBlacklist(blacklist) {
 client.on('ready', () => {
     console.log(`${client.user.username} is online`);
     console.log('Made by @ghostyjija')
-    console.lohg('Commands: \n- imagen <prompt> \n- blacklist <user> \n- unblacklist <user>');
+    console.log('Commands: \n- imagen <prompt> \n- blacklist <user> \n- unblacklist <user>');
 });
 
 client.on('messageCreate', async (message) => {
