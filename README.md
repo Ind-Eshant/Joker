@@ -1,4 +1,4 @@
-# GhoSty AI Image Generator  
+# Joker Ai Image Generator
 
 ## ⚠️ Disclaimer  
 
