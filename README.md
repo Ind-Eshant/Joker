@@ -40,9 +40,8 @@ node bot.js
 
 ## 👤 Author  
 
-- **GhoSty (Brutality)**  
+- **Eshant More**  
 - **Discord:** [@ghostyjija](https://discord.com/users/autm)  
-- **Support Server:** [Join Here](https://discord.gg/SyMJymrV8x)  
 
 ## 🤝 Contributing  
 
