@@ -41,7 +41,7 @@ node bot.js
 ## 👤 Author  
 
 - **GhoSty (Brutality)**  
-- **Discord:** [@ghostyjija](https://discord.com/users/ghostyjija)  
+- **Discord:** [@ghostyjija](https://discord.com/users/autm)  
 - **Support Server:** [Join Here](https://discord.gg/SyMJymrV8x)  
 
 ## 🤝 Contributing  
