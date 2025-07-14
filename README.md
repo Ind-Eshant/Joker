@@ -41,7 +41,7 @@ node bot.js
 ## 👤 Author  
 
 - **Eshant More**  
-- **Discord:** [@ghostyjija](https://discord.com/users/autm)  
+- **Discord:** [@autm](https://discord.com/users/807193356026904587)  
 
 ## 🤝 Contributing  
 
