@@ -11,7 +11,7 @@ A JavaScript-based Discord self-bot that enables AI-powered image generation dir
 - 🎨 **Multi-Image Generation** – Generate multiple AI-generated images effortlessly.  
 - 🔄 **Unlimited Requests** – No restrictions on the number of images you can generate.  
 - ⚡ **Fast & Secure** – Optimized for speed and security.  
-- 🔞 **NSFW** - Users may trick the model to generate NSFW images so please keep a check on that.
+- 🔞 **NSFW** - Users may trick the model to generate NSFW images so please keep a check on that , Doing This Will Reasult in BAN
 
 ## 📖 Installation & Usage  
 
