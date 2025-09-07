@@ -4,26 +4,25 @@
 
 **For Educational Purposes Only**  
 
-A JavaScript-based Discord self-bot that enables AI-powered image generation directly within Discord.  
+A JavaScript-based Discord bot that enables AI-powered image generation directly within Discord.  
 
 ## 🚀 Features  
 
 - 🎨 **Multi-Image Generation** – Generate multiple AI-generated images effortlessly.  
 - 🔄 **Unlimited Requests** – No restrictions on the number of images you can generate.  
 - ⚡ **Fast & Secure** – Optimized for speed and security.  
-- 🔞 **NSFW** - Users may trick the model to generate NSFW images so please keep a check on that , Doing This Will Reasult in BAN
 
 ## 📖 Installation & Usage  
 
 ### 1️⃣ Setup  
 
-- Add your **Discord token** in the designated section of line 97 of the script.  
+- Add your **Discord bot token** in the designated section of the script.  
 - Ensure you have Node.js installed on your system.  
 
 ### 2️⃣ Running the Bot  
 
 ```bash
-npm install discord.js-selfbot-v13 node-fetch@2
+npm install package.json
 ```
 
 ```bash
@@ -34,7 +33,7 @@ node bot.js
 
 - Generate an AI image using:  
   `
-  imagen {prompt}
+  gen {prompt}
   `
   Replace `{prompt}` with your desired image description.  
 
