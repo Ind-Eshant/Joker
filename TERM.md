@@ -47,7 +47,7 @@ You’re free to use your generated images however you like — we don’t claim
 ---
 
 ## 7. 🛠️ Feedback & Issues  
-Got an idea or found a bug? [Open an issue on GitHub](https://github.com/yourusername/yourrepo/issues) or contact us via the support server.
+Got an idea or found a bug? contact us via the support server.
 
 ---
 
