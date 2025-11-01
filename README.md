@@ -92,6 +92,7 @@ Quality: (8k, highly detailed, sharp focus, volumetric lighting).
 
 👨‍💻 Developed by
 
-Joker is the work of Eshant More.
+Joker is the work of Eshant More.Inspired By The Image Generation SB By Ghosty :)
 
 If you have questions, feedback, or would like to discuss future features, feel free to connect!
+
